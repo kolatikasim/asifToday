@@ -1,0 +1,9 @@
+{
+	"name": "todayadff",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "517a7220-8a8a-4f8c-b93a-bfd2f1584308",
+		"tenantId": "0f187933-f480-4b71-adf4-7e8ba49d5493"
+	}
+}
